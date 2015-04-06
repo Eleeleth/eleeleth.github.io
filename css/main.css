@@ -52,6 +52,7 @@ a {
     text-align: center;
     color: #99E6FF;
     font-family: 'Oswald', sans-serif;
+    -webkit-font-smoothing: antialiased;
 }
 
 #cube .front  { transform: rotateY(   0deg ) translateZ( 100px ); }
